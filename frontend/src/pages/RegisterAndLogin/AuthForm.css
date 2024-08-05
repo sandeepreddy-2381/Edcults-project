@@ -1,0 +1,37 @@
+.auth-container {
+    display: block;
+    max-width: 560px;
+    padding: 0 .9375rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .auth-box {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 10px;
+    padding: 60px;
+  }
+  
+  .icon-container {
+    margin-bottom: 16px;
+  }
+
+  .icon-container svg{
+    color: #673eb4;
+  }
+
+  .auth-box form button {
+    margin-top: 10px;
+    background: #673eb4 !important;
+    color: #fff !important;
+    text-transform: capitalize !important;
+    margin-bottom: 10px;
+}
+
+
+
+  
