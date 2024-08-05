@@ -9,4 +9,9 @@ Before running the application, replace the placeholders in `application.propert
 - `YOUR_STRIPE_API_KEY` - Your Stripe API key
 - `YOUR_FILE_UPLOAD_DIRECTORY` - Your file upload directory
 
+Before running the frontend and dashboard_g
 
+perform following steps
+
+npm install
+npm run dev
